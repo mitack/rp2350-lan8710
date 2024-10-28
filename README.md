@@ -1,2 +1,2 @@
-# rp2350-lan8710
-Interfacing RP2350 with LAN8710
+# rp2350-mii
+Interfacing RP2350 with a MII PHY
